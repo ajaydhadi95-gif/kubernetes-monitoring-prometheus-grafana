@@ -11,7 +11,8 @@ This project monitors Kubernetes workloads and EC2 server resources using:
 - AWS EC2
 - Kubernetes (KIND)
 
-## Architecture
+## Architecture<img width="2400" height="2020" alt="83fa800e-df5a-43d5-82d4-6ea30a615bab" src="https://github.com/user-attachments/assets/f7cef616-0b55-4fa8-ae2e-4b486391258c" />
+
 
 Monitoring EC2:
 - Prometheus
@@ -70,3 +71,7 @@ Never commit AWS credentials, SSH private keys, passwords, or kubeconfig files.
 ## Author
 
 GitHub: https://github.com/ajaydhadi95-gif
+
+<img width="2400" height="2020" alt="83fa800e-df5a-43d5-82d4-6ea30a615bab" src="https://github.com/user-attachments/assets/7c53078e-c37d-4e58-bdaa-96754cdbd473" />
+
+
